@@ -18,8 +18,8 @@
         vertical-align: middle;
         margin-bottom: 0;
         font-size: 2em;
-        color: white;
-        font-weight: 500;
+        color: antiquewhite;
+        font-weight: 700;
         text-shadow: 0 1px 1px black;
     }
 </style>

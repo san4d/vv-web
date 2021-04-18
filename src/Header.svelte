@@ -26,6 +26,10 @@
 		padding: 1em;
 		display: flex;
 		flex-direction: column;
+        position: absolute;
+        z-index: 2;
+        left: 0;
+        right: 0;
 	}
 	
 	#company-name {
