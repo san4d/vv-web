@@ -15,6 +15,13 @@
 				</div>
 			</a>
 		</div>
+        <div>
+			<a href="mailto:sanfordsvintagevineyards@gmail.com?subject=Lighting Inquiry">
+				<div>
+                    <i class="fas fa-envelope"></i>
+                </div>
+			</a>
+		</div>
 	</div>
 </div>
 
