@@ -29,11 +29,11 @@
 	.social-header {
 		font-weight: bold;
 		color: antiquewhite;
-		background-color: rgba(0, 0, 0, .7);
+		background-color: rgba(0, 0, 0, 1);
 		padding: 1em;
 		display: flex;
 		flex-direction: column;
-        position: absolute;
+        position: fixed;
         z-index: 2;
         left: 0;
         right: 0;

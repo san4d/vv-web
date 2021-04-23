@@ -3,7 +3,7 @@
 
 	let container;
 	let map;
-	let zoom = 12;
+	let zoom = 11;
     const albionLoc = {
         lat: 43.248379199694845, 
         lng: -78.19383469513551

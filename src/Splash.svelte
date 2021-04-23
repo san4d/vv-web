@@ -21,5 +21,6 @@
         color: antiquewhite;
         font-weight: 700;
         text-shadow: 0 1px 1px black;
+        padding: 0px 1em;
     }
 </style>

@@ -26,4 +26,10 @@
     .section {
         padding: 1em 5em;
     }
+
+    @media (max-width: 500px) {
+        .section {
+            padding: 1em 1em;
+        }
+    }
 </style>
