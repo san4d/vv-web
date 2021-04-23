@@ -2,6 +2,7 @@
 	import Header from './Header.svelte';
 	import Splash from './Splash.svelte';
 	import Location from './Location.svelte';
+	import Section from './Section.svelte';
 
 	export let mapReady;
 </script>
@@ -14,6 +15,9 @@
 <Header/>
 <Splash/>
 
-{ #if mapReady }
-	<Location/>
-{ /if }
+<Section title="Visit Us">
+	{ #if mapReady }
+		<Location/>
+	{ /if }
+</Section>
+

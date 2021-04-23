@@ -37,5 +37,4 @@
     }
 </style>
 
-<h1>Maps</h1>
 <div class="full-screen" bind:this={container}></div>
